@@ -1,6 +1,6 @@
 
 
-##!Bienvenido a mi proyecto! ##
+##!Bienvenido a mi proyecto!
 
 **Descripcion**
 Este es un pryecto de la clase de realidad aumentada en el cual hemos estado desarrollando una pagina web con lenguaje html utilizando comando git.
